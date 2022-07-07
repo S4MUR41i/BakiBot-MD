@@ -1,16 +1,16 @@
 # `BAKIBOT-MD`
 
 ### ` DUDAS SOBRE EL BOT?, CONTACTAME`
-<a href="http://wa.me/528451003894" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/528451003894" target="blank"><img src="https://img.shields.io/badge/ADOLFO_SEMPAI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
-### `—◉ 💰 DONAR 💰`
+### `DONAR`
 - AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
+### `LETRA DEL BOT`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
+### `ACTIVAR EN HEROKU`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adolfo-crazy/BakiBot-MD)
 ```bash
 [❗] FALLAS POR EL MOMENTO EN HEROKU, SE TRABAJA EN SOLUCIONAR ERRORES.
