@@ -17,7 +17,7 @@ say('ADOLFO\nBAKI BOT MD', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Bot creado por Bruno Sobrino`, {
+say(`Bot creado por Adolfo`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
