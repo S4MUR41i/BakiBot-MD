@@ -9,7 +9,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /Gemidos|gemime|gime|gemime|gemi2/i
+handler.customPrefix = /Gemido|gemime|gime|gemime|gemi2/i
 handler.command = new RegExp
 handler.fail = null
 handler.exp = 100
