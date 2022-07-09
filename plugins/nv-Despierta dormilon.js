@@ -9,7 +9,8 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.command = /^(Despierta dormilon$/i
-handler.fail = null
-handler.exp = 100
+handler.customPrefix = /Despierta dormilon/
+handler.command = new RegExp
 export default handler
+
+

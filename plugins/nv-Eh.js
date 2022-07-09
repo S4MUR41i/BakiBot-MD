@@ -9,7 +9,8 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.command = /^(Eh$/i
-handler.fail = null
-handler.exp = 100
+handler.customPrefix = /Eh/
+handler.command = new RegExp
 export default handler
+
+

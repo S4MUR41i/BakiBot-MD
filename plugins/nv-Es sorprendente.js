@@ -9,7 +9,8 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.command = /^(Es sorprendente$/i
-handler.fail = null
-handler.exp = 100
+handler.customPrefix = /Es sorprendente/
+handler.command = new RegExp
 export default handler
+
+

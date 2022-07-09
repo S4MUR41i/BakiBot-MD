@@ -9,7 +9,8 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.command = /^(Culos asi$/i
-handler.fail = null
-handler.exp = 100
+handler.customPrefix = /Culos asi/
+handler.command = new RegExp
 export default handler
+
+
