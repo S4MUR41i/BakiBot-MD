@@ -6,7 +6,7 @@ import { join } from 'path'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) => {
 try {
 let vn = './media/menu.mp3'
-let pp = './Menu2.mp4'
+let pp = './Menu2.jpg'
 let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
 let { exp, limit, level, role } = global.db.data.users[m.sender]
 let { min, xp, max } = xpRange(level, global.multiplier)
@@ -352,6 +352,7 @@ _(uso sin prefijo)_
 °✯⃟🔊 _Jesucristo_
 °✯⃟🔊 _Joder_
 °✯⃟🔊 _Me los voy a coger_
+°✯⃟🔊 _Modo supreme_
 °✯⃟🔊 _Mi bebito fiu fiu_
 °✯⃟🔊 _No chupala_
 °✯⃟🔊 _No digas mamadas meriyen_
