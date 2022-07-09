@@ -9,7 +9,8 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.command = /^(Cada dia mas fachero$/i
-handler.fail = null
-handler.exp = 100
+handler.customPrefix = /Cada dia mas fachero/
+handler.command = new RegExp
 export default handler
+
+
