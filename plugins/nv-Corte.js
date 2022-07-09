@@ -9,7 +9,8 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.command = /^(Corte$/i
-handler.fail = null
-handler.exp = 100
+handler.customPrefix = /Corte/
+handler.command = new RegExp
 export default handler
+
+
