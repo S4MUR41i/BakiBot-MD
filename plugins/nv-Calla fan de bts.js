@@ -9,7 +9,8 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.command = /^(Calla fan de bts$/i
-handler.fail = null
-handler.exp = 100
+handler.customPrefix = /Calla fan de bts/
+handler.command = new RegExp
 export default handler
+
+
