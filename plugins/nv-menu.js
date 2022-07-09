@@ -9,7 +9,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /#menu|.menu/
+handler.customPrefix = /menu/
 handler.command = new RegExp
 export default handler
 
