@@ -5,12 +5,12 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['528451003894', 'Adolfo', true],
+  ['528451003894', '𝐀𝐝𝐨𝐥𝐟𝐨 𝐙𝐚𝐫𝐚𝐠𝐨𝐳𝐚', true],
   ['15302318984', '𝐵𝑎𝑘𝑖𝐵𝑜𝑡-𝑀𝐷', true],
-  ['527226444010']
+  ['528451003894']
 ] // Cambia los numeros que quieras
 global.mods = [] 
-global.prems = [] 
+global.prems = ['528451003894'] 
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -69,7 +69,7 @@ global.author = '𝐵𝑎𝑘𝑖𝐵𝑜𝑡-𝑀𝐷'
 
 global.wm = '𝐵𝑎𝑘𝑖𝐵𝑜𝑡-𝑀𝐷'
 global.igfg = '𝐵𝑎𝑘𝑖𝐵𝑜𝑡-𝑀𝐷'
-global.wait = '*😈 _Cargando..._ ▬▬▬▭*'
+global.wait = '*Espera un momento gil..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
