@@ -9,7 +9,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.command = /^(menu)$/i
+handler.command = /menu|.menu|#menu|/menu/
 handler.fail = null
 handler.exp = 100
 export default handler
