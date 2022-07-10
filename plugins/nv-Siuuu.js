@@ -9,7 +9,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /siu|siiuu|ssiiuu|Siuuu|siiuuu|siiiuuuu|siuuuu|siiiiuuuuu|siu|SIIIIUUU/i
+handler.customPrefix = /Siuuu/i
 handler.command = new RegExp
 handler.fail = null
 handler.exp = 100
